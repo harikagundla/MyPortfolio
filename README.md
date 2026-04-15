@@ -39,7 +39,8 @@ git push -u origin main
 
 Your site will publish at:
 - `https://harikagundla.github.io/my_portfolio/`
-
+My portfolio link:
+file:///C:/Users/GUNDLA%20HARIKA/Documents/my_portfolio/index.html
 ## Alternative: Netlify or Vercel
 If you prefer a drag-and-drop or connected deployment:
 
